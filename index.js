@@ -9,4 +9,4 @@ function writeCards(cards,gift) {
   return newArr;
 }
 
-writeCards(["Ada", "Brendan", "Ali"], "birthday");
+writeCards([ 'Lisa', 'Kaitlin', 'Jan' ], 'surprise');
