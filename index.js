@@ -10,3 +10,16 @@ function writeCards(cards,gift) {
 }
 
 writeCards([ 'Lisa', 'Kaitlin', 'Jan' ], 'surprise');
+
+
+function countDown(num) {
+while(num >= 0){
+  console.log(num);
+  num--;
+}
+
+}
+
+
+countDown(10);
+
